@@ -1,30 +1,46 @@
-- 👋 Hi, I’m Martin C.
-- 📫 How to reach me: marttin1987@gmail.com
-- :telescope: I’m working and contributing to frontend, backend and db for building web applications.
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
-<div>
+# Hi, I'm Martín Coria 👋
+### Systems Administrator | Linux & Automation Specialist | Sales Manager
 
+Ubicado en Buenos Aires, Argentina 🇦🇷. Apasionado por la administración de sistemas Linux, la automatización de procesos en Bash, la seguridad informática y el monitoreo de infraestructura.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marttin1987&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marttin1987&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-</div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<!---
-marttin1987/marttin1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack & Skills
+
+- **Sistemas Operativos:** Linux (Debian, Ubuntu, RHEL/Rocky), Bash Scripting (set -euo pipefail, ShellCheck).
+- **Hardening & Seguridad:** Hardening SSH, UFW Firewall, Lynis Security Auditing, auditoría de puertos/sockets.
+- **Redes & Monitoreo:** Netcat (`nc`), `ss`, `ip route`, `arp-scan`, `systemd`, rotación de logs.
+- **Herramientas & Devops:** Git, GitHub Actions (CI/CD Pipelines), VS Code, Terminal.
+
+---
+
+## 🚀 Proyectos Destacados en GitHub
+
+### 🛰️ [monitor-servidor-atlas](https://github.com/marttin1987/monitor-servidor-atlas)
+Suite modular de monitoreo y auditoría ligera para servidores Linux:
+- **Modularidad & Config:** Carga de umbrales dinámicos desde `config/monitor.conf`.
+- **Almacenamiento & Servicios:** Parsing seguro de espacio en disco con `df` y estado de demonios `systemd` (`ssh`, `cron`).
+- **Conectividad TCP:** Validación activa de puertos via TCP Handshake con `netcat` (`nc -zv`).
+- **Integración Continua:** Pipeline de GitHub Actions configurado para análisis estático con `ShellCheck`.
+
+### 📜 [scripts-administracion-linux](https://github.com/marttin1987/scripts-administracion-linux)
+Colección de scripts de administración, monitoreo y diagnóstico de red:
+- `monitoreo/`: Scripts de estado del sistema (`reporte_sistema.sh`, `evaluar_disco.sh`) con códigos de salida estándar (`0`, `1`, `2`).
+- `red/`: Auditoría de dispositivos en red local con `arp-scan` y detección automática de la interfaz.
+- `archivos/` y `ejercicios/`: Automatización de procesamiento de directorios y prácticas avanzadas de Bash scripting.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marttin1987&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marttin1987&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contacto & Redes
+
+- **GitHub:** [@marttin1987](https://github.com/marttin1987)
+- **Ubicación:** Morón, Buenos Aires, Argentina
