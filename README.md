@@ -43,4 +43,4 @@ Colección de scripts de administración, monitoreo y diagnóstico de red:
 ## 📫 Contacto & Redes
 
 - **GitHub:** [@marttin1987](https://github.com/marttin1987)
-- **Ubicación:** Morón, Buenos Aires, Argentina
+- **Ubicación:** Buenos Aires, Argentina
