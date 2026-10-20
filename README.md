@@ -16,6 +16,14 @@ Ubicado en Buenos Aires, Argentina 🇦🇷. Apasionado por la administración d
 
 ## 🚀 Proyectos Destacados en GitHub
 
+### 🔐 [servidor-seguro](https://github.com/marttin1987/servidor-seguro)
+Laboratorio de un servidor Debian 13 endurecido, monitorizado y respaldado, documentado paso a paso en 14 documentos:
+- **Hardening:** SSH solo con clave, firewall UFW, `fail2ban` y `auditd`. Índice de Lynis de 68 a 79 y sugerencias de 54 a 31.
+- **HTTPS:** Nginx con TLS 1.2 y 1.3, y redirección desde HTTP.
+- **Backups:** compresión atómica, firma SHA-256, rotación, restauración probada y copia fuera de la VM.
+- **Mínimo privilegio:** usuario `auditor` con un único comando por `sudoers` y scripts de root fuera de `/home`.
+- **Calidad:** reporte con semáforo y ShellCheck automático con GitHub Actions.
+
 ### 🛰️ [monitor-servidor-atlas](https://github.com/marttin1987/monitor-servidor-atlas)
 Suite modular de monitoreo y auditoría ligera para servidores Linux:
 - **Modularidad & Config:** Carga de umbrales dinámicos desde `config/monitor.conf`.
